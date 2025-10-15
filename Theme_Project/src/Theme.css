@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
+    height: 80vh;
+}
+
+.theme-btn{
+    height: fit-content;
+    width: 5%;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(105, 120, 255);
+    font-family: 'Franklin Gothic Medium';
+    font-size: 15px;
+    color: black;
+}
